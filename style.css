@@ -37,3 +37,25 @@ h2 {
     width: 50%;
     padding: auto;
 }
+
+.experience-item {
+    width: 50%;
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+#bg {
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(218, 17, 51), yellow);
+    border-image-slice: 1;
+
+}
+
+#bd {
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(255, 0, 200), orange);
+    border-image-slice: 1;
+}
